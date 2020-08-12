@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.PodarInternatinalSchool"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView26"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.08"
+        app:srcCompat="@drawable/podarsch" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Established in 1927, by Sheth Anandilal Podar, Podar Education Network has, from the very beginning been focussed driven and motivated by the traditional Indian values of honesty, integrity and service. The father of our nation, Mahatma Gandhi, being the very first President of the Anandilal Podar Trust stands testimony to this fact. (View the minutes of the first Trust meeting).
+
+With over 89 years of experience within the educational space, the Podar group is now a network of 94 educational institutions spread across the nation, with a combined student strength of more than 100,000 and the support of 6,000 dedicated and loyal staff members.
+
+Our constantly growing network of education institutions includes a wide spectrum of Pre-Primary schools under the brand name of Podar Jumbo Kids, Primary and Secondary schools under the brand name of Podar International School, Junior Colleges, Part-Time courses and Teacher Training Institutes.
+
+The Podar network of schools also offers a wide choice of educational streams such as the Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations (CISCE), Secondary School Certificate (SSC), Cambridge (IGCSE) and International Baccalaureate (IB).
+
+Our scholastic record, innovative learning methods and strong commitment to delivering quality through integrity has helped us scale heights that few have managed in the field of education.
+
+"
+        android:layout_weight="0.88" />
+
+</LinearLayout>

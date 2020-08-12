@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.WalchandInstituteOfTechnology"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView44"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/walchand"
+        android:layout_weight="0.06" />
+
+    <TextView
+        android:id="@+id/textView40"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Walchand College of Arts and Science, Solapur was established on 8th July 1962 with Arts, Science and Commerce faculties. However, in the year 1972, Commerce faculty was separated and was given the status of a separate college Hirachand Nemchand College of Commerce, Solapur. In 1979, Sholapur College, Sholapur was renamed at the auspicious hands of Hon. A.B. Vajpeyee, former P.M. of India. Our college began with Under Graduate departments of Chemistry, Mathematics, zoology, Botany and Geology in Science faculty. The subjects like History, Ardhamagadhi, Logic Co-operation, Public Administration; N.S.S., Tourism Geography, Environmental Science, Physics, Statistics, Electronics, Microbiology and Sports have been being offered at U.G. Part- I and II levels. With a view to enabling the students in this region to get educated in Master of Social Work a new academic adventure was undertaken in the form of P.G. department of Social Work in 1970. In 1972 the college started to run P.G. course in Zoology, which happened to be the first department outside Shivaji University. Likewise the P.G. Courses of part-I in English, Marathi, Sociology and Economics were also initiated in 1987. The complete P.G. courses in Marathi and Economics were started in 1997. Recently Solapur University, Solapur has recognized the departments of Chemistry and Zoology for research work in M.Phil, and Ph.D programmes. The college has initiated Entire B.Sc. Biotechnology course from June 2008. The college has also started M.Sc. (Inorganic Chemistry, Bioinformatics and Genetics) from June 2009. Recently the complete P.G. courses in Hindi and English were started in June 2009. It is our dream project to train and produce manpower in the field of this modern technology.From this Academic year the college has started the M.Sc. (Biotechnology) course.
+
+"
+        android:layout_weight="0.90" />
+
+</LinearLayout>

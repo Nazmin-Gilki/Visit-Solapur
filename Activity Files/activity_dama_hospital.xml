@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.DamaHospital"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="337dp"
+        android:layout_height="170dp"
+        app:srcCompat="@drawable/damahos"
+        android:layout_weight="0.31" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="366dp"
+        android:layout_height="204dp"
+        android:text="In Solapur, Dama Hospital is a recognized name in patient care. They are one of the well-known Hospitals in Solapur City. Backed with a vision to offer the best in patient care and equipped with technologically advanced healthcare facilities, they are one of the upcoming names in the healthcare industry. Located in , this hospital is easily accessible by various means of transport. A team of well-trained medical staff, non-medical staff and experienced clinical technicians work round-the-clock to offer various services . Their professional services make them a sought after Hospitals in Solapur. A team of doctors on board, including specialists are equipped with the knowledge and expertise for handling various types of medical cases. " />
+</LinearLayout>

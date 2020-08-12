@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.JainGurukul"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.17"
+        app:srcCompat="@drawable/jainschool" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Towards the end of 19th Century in India, to confront the challenges posed by a new era with a view to pursue rejuvenation various movements were initiated. The year 1885 had a unique historical importance. It was during this time that religious, ethical, educational and cultural needs of the society were realized and thus in 1885 Shri Aillak Pannalal Digamber Jain Pathshala was established in Solapur City. Though the institution aimed at imparting religious education, it was backed up by a strong inspiration of promoting national exhortation and national welfare. And hence a broad vision and non-communal motto ‘Shikshan Hach Dharma’ meaning ‘Education is Religion’ was sculpted.
+
+The concept of ‘Jain Gurukul’ inceptionized by Param Pujya Gurudev Samantabhadra Maharaj revolutionized the educational aspect of the Jain community. Educational institutions were duly established chronologically in the following year, 1918- Karanja, 1934- Bahubali, 1940- Solapur.
+
+The Walchand Industrial Group was one of the few conglomerates of the country that brought glory to the pre-independent India by pioneering in industrialization. The founding father of the Walchand Family Late Seth Hirachand Nemchand Doshi also served as the Trustee of the instituion. Today measuring the expansion and excellence of this educational institution,the visionary perception of the pioneers cannot be overlooked.
+
+Gyana, Sheel, Prem Seva and Vyavastha ie Knowledge, Morality, Love, Service and Management are the blissful virtues on which the life of Gurukul is humbly based.
+
+The institution primarily thrives on patriotism, religious devotion and individual well being. Hence Jain Gurukul is not only a boon to the Jain community but it proved to be a pligrimage centre for the entire society .
+
+Inspired by the visionary Param Pujya Gurudev the institution of Shri Digamber Jain Gurukul Prashala was established in 1940. In the same premises Boys Hostel for impoverished boys was established. Bearing in mind the social considerations, the technical wing was established in 1961. It was unique in its kind which imparted technical education throughout the city."
+        android:layout_weight="0.87" />
+
+</LinearLayout>

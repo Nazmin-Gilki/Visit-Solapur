@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.YashodharaHospital"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView45"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.22"
+        app:srcCompat="@drawable/yashohospital" />
+
+    <TextView
+        android:id="@+id/Yashodhara"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Siddheshwar Multispeciality Hospital Private Limited in Solapur. Hospitals with Address, Contact Number, Photos, Maps. View Siddheshwar Multispeciality Hospital Private Limited, Solapur on Justdial.
+
+In Solapur, Siddheshwar Multispeciality Hospital Private Limited is a recognized name in patient care. It was incepted in the year 2005. They are one of the well-known Hospitals in . Backed with a vision to offer the best in patient care and equipped with technologically advanced healthcare facilities, they are one of the upcoming names in the healthcare industry. Located in , this hospital is easily accessible by various means of transport. A team of well-trained medical staff, non-medical staff and experienced clinical technicians work round-the-clock to offer various services . Their professional services make them a sought after Hospitals in Solapur. A team of doctors on board, including specialists are equipped with the knowledge and expertise for handling various types of medical cases.
+
+At Siddheshwar Multispeciality Hospital Private Limited in , the various modes of payment accepted are Cash. You can reach them at Near St Bus Stand Samrat Chowk Budhwar Peth,188,Solapur Ho-413001. The contact number of this hospital is +(91)-217-2320840,2326068. You can view 2 photos of this establishment as well. This establishment has been rated a 4.1 from a total of 60+ ratings. This listing is also listed in Hospitals, Private Hospitals. "
+        android:layout_weight="1" />
+
+</LinearLayout>

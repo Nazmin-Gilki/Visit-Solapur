@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.LoksevaPureVegRestaurant"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.07"
+        app:srcCompat="@drawable/lokseva1" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="
+Location and Contact Information
+
+    Address: H No. 9, Pune Solapur Road | Mohol, Solapur 413213, India
+    Location: Asia  >  India  >  Maharashtra  >  Solapur District  >  Solapur
+    Phone Number: +91 94046 90585
+    E-mail
+
+Description
+Pure veg family restaurant with Maharashtrian, south-Indian and Punjabi breakfast and lunch. Open from 6am to 11.30pm
+TripAdvisor. this restaurant is very famous for veg eaters. this resataurants food is very yummy,and spicy.this restaurant is very usefull for veg eaters.this restaurant provides various dishes such as puri bhaji,edli,paw bhaji etc
+"
+        android:layout_weight="0.89" />
+
+</LinearLayout>

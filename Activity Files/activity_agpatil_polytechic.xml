@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.AGPatilPolytechic"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/agpatil"
+        android:layout_weight="0.10" />
+
+    <TextView
+        android:id="@+id/Te"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.87"
+        android:text="A G Patil Polytechnic Institute is an engineering college in Solapur, Maharashtra, India. The college was started in 2008. The college has five branches: Mechanical, Computer, IT, Civil, and Electronics and Telecommunication.[1] and also the one of the best college at a small city level, supporting staff and other activities related to sports and studies here knowledge is wisdom
+A G Patil Polytechnic Institute is an engineering college in Solapur, Maharashtra, India. The college was started in 2008. The college has five branches: Mechanical, Computer, IT, Civil, and Electronics and Telecommunication.[1] and also the one of the best college at a small city level, supporting staff and other activities related to sports and studies here knowledge is wisdom
+" />
+</LinearLayout>

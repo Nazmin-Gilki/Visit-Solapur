@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.IndianModelSchool"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.13"
+        app:srcCompat="@drawable/imschool1" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="
+Education is the foundation of human progress but unfortunately it has not been given its due importance. It is a very common sight to see small children going to school with heavy school bags and tiffin. As soon as the school is over, we find children running for tuitions or going to different sports clubs, hobby classes, etc. At home we again find them reading guides or completing the heavy homework given to them. Thus we have transformed our children into robots who have lost their creativity and curiosity, desperately trying to get more and more numbers on their report cards.
+
+
+We started Indian Model School in June 2002, with a sole aim to satisfy each and every need of the student in the school itself. The motto of the school is to bring out the best in the students in all aspects - academic, intellectual, sports, cultural, social and leadership. We have introduced an array of new concepts and are proud to state that all of them have shown good results.
+
+
+
+In 12 Academic years, IMS has developed into a huge knowledge hub comprising of Indian Model School (State Board) - Solapur, Indian Model School (CBSE) - Solapur, Model Public School - Solapur, Indian Model School - Akkalkot, A.D. Joshi Junior College - Solapur, Matoshri Laxmibai Mhetre B.Ed. College – Akkalkot, located at five different campuses. There are around 6000+ students studying in our renowned schools and colleges. IMS has commendable achivements in academic, sports and extra-curricular activities. Police Public School, Solapur is also managed by Indian Model School since its inception.
+
+"
+        android:layout_weight="0.83" />
+
+</LinearLayout>

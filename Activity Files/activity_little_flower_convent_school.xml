@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.LittleFlowerConventSchool"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/lfschool" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Little Flower Convent High School, Solapur is an English Medium School, managed by the Congregation of Carmelite Religious. It is a Christian Minority Institution, in accordance with the rights enshrined in Articles 29 and 30 of the Constitution of India. It is recognized by the Government of Maharashtra.
+
+The school is open to pupils of all classes and creed. The course of studies conforms to the syllabus laid down by the State Curriculum Framework. At Little Flower Convent High School, we prepare the students for the Secondary School Certificate Examination.
+
+Primary Section Classroom"
+        android:layout_weight="0.93" />
+
+</LinearLayout>

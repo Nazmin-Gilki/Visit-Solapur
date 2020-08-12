@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.SolapurQila"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView37"
+        android:layout_width="match_parent"
+        android:layout_height="183dp"
+        app:srcCompat="@drawable/solapyurfort"
+        android:layout_weight="0.05" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Explore solapur qila
+solapur qila, Solapur is a perfect destination for a great time with your dear ones. Enjoy the attractions of this popular tourist spot. With so much to lure your senses and offer you recreation at its best, get drenched in the spirit of adventure that you get to explore at solapur qila, Solapur. Enjoy together all the points of popular interests and bring back several memorable moments. solapur qila, Solapur is not just the place for sightseeing, but it also enables you to steal a self-indulgent moment for yourself as well. So, check out the solapur qila tourist spot for all the attractions that is on offer and visit this spot on weekends for a rejuvenating time. World standards, extraordinary architecture, innovative layouts, and well-thought execution make place a highly coveted point of tourist interest. Do not forget to carry your camera and capture special moments. solapur qila, Solapur is the sure way to refresh and relax after a busy weekday. Explore interesting themes, fabulous designs, colorful landscapes, amusing characters, ambient music, props and merchandise available in nearby stores- all at one place. solapur qila, Solapur is the best way to have a memorable time with kids and family. So, enjoy a fulfilling outing at solapur qila in Solapur. Check it out!
+"
+        android:layout_weight="0.95" />
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.VishwkarmaPark"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView43"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/vashawkarmapark" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="INFORMATION- one of the best thing of this park ois it is very hud=ge park it is located in very huge place.this park has too many types of flower which makes this  place again very huge and beautifull.this park is very good for the kids and the younger.in  this park it provides the best services for the older people .in this park very fresh air with the flower smell flowes which make this place again very attractive. "
+        android:layout_weight="0.61" />
+
+</LinearLayout>

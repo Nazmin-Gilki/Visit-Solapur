@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.SuryaLodge"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView40"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.04"
+        app:srcCompat="@drawable/suryalodge1" />
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INFORMATION-T his is one of the famous lodge in the solapur city for the stay. this lodge provides best services to the customer. it also has some discounts on the check in and the check out dates is only dones online for the customers.this lodge offers very nice discount on the roomsfor the customer. this lodge is also accepts the cashless things such as cradit card,debit card."
+        android:layout_weight="0.88" />
+
+</LinearLayout>

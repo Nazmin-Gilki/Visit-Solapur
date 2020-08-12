@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.RupabhavaniTemple"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rupatemple" />
+
+    <TextView
+        android:id="@+id/Rupabhavani"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mata Rupa Bhawani’s life starts with a legend. It is said that Pandit Madhav Joo Dhar (father of Mata Rupa Bhawani), who lived at Khankah-i-Shokta, Nawakadal in Srinagar in early 17th century, regularly used to visit Sharika temple at Hari Parvat and pray for hours together with great devotion before Kali’s temple. During one such visit, on the first day of Navratra in the year 1620 AD, when he got engrossed in his prayers, Mata Sharika pleased with is devotion appeared before him as a girl child. Madhav Joo, being religious and spiritual man, realized that the girl child was none other than Mata Sharika herself, who had blessed him. To show his gratitude, he worshipped the child and showered on her all the love and affection of a father. Mata Sharika was so happy with her devotion that she asked him about his wish. Madav Joo is said to have asked for a daughter to be born in his house. Mata Sharika granted this wish and thus Ropa Bhawani was born to Madhav Joo’s wife on Poorna Amavasya in the month of zeeth (Jyeshta) in the year 1621 AD. The place happened to be hear Safa Kadal. Her parents named her Alakheshwar . She was also called Sharika Ansha Roopa, hence the name Ropa Bhawani"
+        android:layout_weight="1" />
+</LinearLayout>

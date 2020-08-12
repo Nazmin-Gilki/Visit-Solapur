@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.BhuikotFort"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:layout_weight="0.70"
+        app:srcCompat="@drawable/qila" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="283dp"
+        android:text="
+History of the Bhuikot Fort
+It is said that the fort was built during the 14th century under the rule of Bahamani Dynasty, in the memory of Hutatma Bagh. As per the historians, Aurangazeb spent quite some time in this fort. Once it was handed over to the Peshwas, Bajirao II also stayed here. Bahamani Sultan built a temple in the fort that attracts thousands of visitors.
+
+The major attraction of Bhuikot fort is the animal park here that homes several animals like peacock, duck, rabbit, monkey etc. The authorities also arrange a wonderful amusement park in the fort that entertains the children who visit to see the fort. The fort is an ideal location to spend some leisure time with your friends or family members. You can simply walk or walk in the fort viewing the picturesque locale or watching the animals in the park. There is also a well in the fort, which is in octagonal in shape.
+
+Address: Solapur Fort, Sidheshwar Temple Area, Solapur, Maharashtra, 413001
+Opening and closing time: All days in a week from 8:00 am to 6:30 pm
+Best time to visit, Morning and evening
+Time required for sight seeing: 1 or 2 hours
+
+Bhuikot Fort is situated just less than 2 km away from Solapur and so you can easily reach to this fort. Autorickshaws are available from Solapur railway station to this site"
+        android:layout_weight="0.66" />
+
+</LinearLayout>

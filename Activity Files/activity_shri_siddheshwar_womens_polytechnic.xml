@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.ShriSiddheshwarWomensPolytechnic"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView31"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.11"
+        app:srcCompat="@drawable/sswpcollege" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About Shri Siddheshwar Devasthan Trust :
+
+Shri Siddheshwar Devasthan Trust Solapur is a Public Charitable Trust. It is registered under Bombay Public Trust Act 1950 and its Registration No. is A-249. Advancement of Education is one of the main objectives of the trust.
+
+About Shri Siddheshwar Womens Polytechnic :
+
+Shri Siddheshwar Women’s Polytechnic was established in the year 2009. Our institute offers a three-year full time diploma courses since 2009. Ours is Linguistic Minority (Kannada) Institute.  The institute is approved by All India Council of Technical Education (AICTE) New Delhi  Government of Maharashtra. The institute is affiliated to Maharashtra State Board of Technical Education (MSBTE) Mumbai.
+
+Vision :
+
+To rear universally competent women engineers who serve as harbinger to cause speedy development of humanity in general and welfare of our nation in particular.
+
+Mission :
+
+To promote a safe, creative, dynamic community that nurtures and educates Women, imparting state-of-the-art technical education with the skills necessary to succeed in a fast changing society in the 21st century.
+ To impart world-class education in the sphere of diploma engineering in the various branches.
+To induce analytical, creative, critical and independent thinking.
+
+Goals :
+
+         To impart quality education in the sphere of diploma engineering.
+
+         To induce analytical, creative, critical and independent thinking.
+
+         To create world class women engineers."
+        android:layout_weight="0.85" />
+
+</LinearLayout>

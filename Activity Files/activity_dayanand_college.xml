@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.DayanandCollege"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView42"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/dayanand"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="359dp"
+        android:layout_height="318dp"
+        android:text="
+
+The Indian society was at its cultural, social and political nadir when Maharishi Dayanand Saraswati was born in 1824. He grew up in an environment of political subjugation, where he witnessed extreme casteism, superstition, religious dogma and social oppression of women and marginalized sections of society.
+
+He openly stood up against all the social evils such as discrimination on grounds of caste, creed, sex, economic status and social bigotry, male chauvinism and religious dominance of higher castes over the backward castes and classes. He fought for the rights of women and opened 'KanyaVidyalayas' to empower and enlighten them. Unfortunately, the task of social resurgence was too vast to be completed during his lifetime and when Maharishi attained Samadhi in 1883, the Indian society was only partially reformed, with the onus of completing this unfinished task falling on his followers.
+
+Taking a stock of the ground realities of Indian society and the nature of the task undertaken by Maharishi, his followers decided to commemorate his life and works not by building lifeless statues, but by opening temples of learning - schools and colleges where all the values advocated by Maharishi would be inculcated in the children so that they could carry forward his message and work ceaselessly throughout their life to carry out the reforms suggested by him.
+
+In 1885 the first DAV School was established at Lahore which was subsequently upgraded to become the first DAV College. In 1886 the DAV College Trust and Management Society was established and registered. The DAV Society visualized that the DAV Schools shall produce men and women of sterling national character and social commitment. The commendable objectives of the DAV attracted several committed individuals and groups to serve the society by striving to collect petty donations and gather humble resources to set up DAV Schools to spread Maharishi's message for enlightening all the Indians. Thus the crusade against ignorance, illiteracy, injustice and inequality was revived and it gained further momentum with the opening of each DAV School.
+
+DAV College Managing Committee, the executive body of the DAV College Trust and Management Society, streamlined the school curriculum and administrative processes and gave the social movement a splendid vision and precise direction. Towards the end of nineteenth century and in the first half of twentieth century the DAV College Trust and Management Society established a number of schools. These schools were broadly categorized as directly controlled and managed schools. Some more schools came into the DAV fold as they were subsequently affiliated to DAV College Trust and  Management Society."
+        tools:layout_editor_absoluteY="193dp"
+        tools:layout_editor_absoluteX="16dp" />
+</LinearLayout>

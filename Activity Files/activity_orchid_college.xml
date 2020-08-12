@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.OrchidCollege"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.19"
+        app:srcCompat="@drawable/orchidclg" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The  Nagesh Karajagi Orchid College Of Engineering and Technology, Solapur Started in the year 2008-2009 after getting approval from AICTE, New Delhi and recognized by Government Of Maharashtra. It is affilated to Solapur University, Solapur and run by The Pradnya Niketan Education Society, Pune  - (PNES). From 2017-18, First Year Engg of UG course is affiliated to the the Centralized Technical University Dr Babasaheb Ambedkar Technological University(BATU), Lonere."
+        android:layout_weight="0.78" />
+
+</LinearLayout>

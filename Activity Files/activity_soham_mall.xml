@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.SohamMall"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView36"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.41"
+        app:srcCompat="@drawable/sohammall" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="The mall's strength lies in multiple and diverse anchor stores including Home Centre, Babyshop, Splash, Shoe Mart, Lifestyle and Beauty Bay, the fastest growing electronics chain in the UAE at E-max and Home Box , unique world of value furnishing. Babyshop and Mothercare offer adorable options for the mall's youngest shoppers. Dubai's fashionistas can quench their thirst for the season's latest trends at stores such as Splash, Max, New Look, Koton, FandF and Brands amongst others.
+
+Other concepts available at Oasis Mall include Fun City, Spaces Salon and Spa, Balance Wellness 360 Spa, Carrefour Market, the first Fitness First exclusively for women, Sun and Sand Sports and Nike among others. The mall comes with a food court which features a delectable spread - from fast food to cafes.
+
+There is a 470,000 sq. ft. parking facility with ample spaces to accommodate 1,500 vehicles across two basement levels, adding to the mall's many convenience-enhancing elements. The services for the shoppers in the mall include ATM's, Currency Exchanges, Etisalat Payment Machine, Police/RTA Fine Enquiry Machines, Gift Wrapping, Phone booths on all levels, Photo Studio, Car Washing service, Valet Parking Service, Watch/Mobile/Shoe Repairing and Key Cutting Services, Prayer rooms etc.
+"
+        android:layout_weight="0.57" />
+
+</LinearLayout>

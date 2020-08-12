@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.MantrichandakPark"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.07"
+        app:srcCompat="@drawable/mantripark" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="281dp"
+        android:text="mantri Chandak Park is located at Vijapur Road, Solapur, MH - 413008. Besides this park, there is one more park listed in Solapur. We have also listed two attractions in this city in other categories. You will find the exact location of Mantri Chandak Park on the map bellow. Use the Direction tab to find driving directions to this park. If you need any other information on Mantri Chandak Park that is not listed here, please call 096375 15783."
+        android:layout_weight="0.39" />
+
+</LinearLayout>

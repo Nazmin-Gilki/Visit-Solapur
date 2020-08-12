@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.StJosephHighschool"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView38"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/stschool1" />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="St. Joseph High School, Solapur is an English Medium School recognized by the Government of Maharashtra. It is a Catholic School administered by the Poona Diocesan Educational Society, whose Chairman is Dr. Rt. Rev. Thomas Dabre, Bishop of Poona. The glorious history of this institution trails back to the late 1800's when it was a Tamil Medium School. Later, in 1898 the English Medium School building was inaugurated under the leadership of Rev. Fr. M. F. D'Souza. This project was blessed and encouraged by Rt. Rev. Bernard Boider Linden, the then Bishop of Pune. The well-wishers of Solapur nurtured the school which gradually grew to a total strength of 108 students in 1948, comprising the Primary Section only.
+
+As the years rolled by, the year 1953 witnessed a full-fledged school with the total strength of 382 students. The first SSC Batch, i.e. Std. XI, of four boys and nine girls appeared for the Board Exams in the same year.
+
+The new High School building was later inaugurated in February, 1980. It is a matter of great pride and achievement to proclaim that among the 24 High Schools and Primary and 3 Junior Colleges of the Poona Diocesan Educational Society, this is the second institution to celebrate its centenary.
+
+Today, St. Joseph School stands as one of the most reputed schools of the city, under the chairmanship of Rt. Rev. Dr. Thomas Dabre, Bishop of Pune. The total strength of the students is 2300, catered - to by 71 teaching and non-teaching members of the staff.
+
+"
+        android:layout_weight="0.93" />
+
+</LinearLayout>

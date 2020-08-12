@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.LazizPizza"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.04"
+        app:srcCompat="@drawable/lazizpizza1" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="
+Location and Contact Information
+
+    Address: | 4A, Sanmati Nagar, Near Bharti Vidyapeeth,Vijapur Road, Solapur 413004, India
+    Location: Asia  >  India  >  Maharashtra  >  Solapur District  >  Solapur
+    Phone Number: +91 72180 11801
+
+Description
+Laziz Pizza is one of the fastest growing pizza and fast food chains in India. It offers variety of pizzas, grills, sandwichs, pastas, burgers etc.
+ We are proud to Introduce ourselves as Laziz Pizza™ brand run by Laziz Food and  Beverages based at Kolhapur, Western Maharashtra. Founded on 15th August 2013. Laziz Pizza™ is known for its Taste and  Variety of Pizzas. Laziz Pizza has a wide product portfolio of pizzas to savor customers taste buds.
+
+The man standing behind the success of Laziz Pizza™ is ​Keirron J Patil​ who has a great passion for cooking. His vast experience in various business makes him a unique Entrepreneur, but his love for food Industry started from Russian sub continent since 15 years and now he has applied all his expertise to his own venture and now his main aim is to benefit and to Inspire young generation who have flair to grow individually as a young Entrepreneurs.
+"
+        android:layout_weight="0.90" />
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.SkyviewFamilyRestaurant"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView35"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/skyrestaurant" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="skyview Family Restaurant in Solapur. Restaurants with Address, Contact Number, Photos, Maps. View Skyview Family Restaurant, Solapur on Justdial.
+
+Making way for a hearty meal is Skyview Family Restaurant in Solapur. Established in the year 2014, this place is synonymous with delicious food that can satiate all food cravings. It is home to some of the most appreciated cuisines. So as to be able to cater to a large number of diners, it occupies a favourable location at . Near Vodafone Store Sadar Bazar,Wellness Zone 5th Floor,Solapur Ho-413001 is where one can visit the venue. Courtesy to this strategic location, foodies in and around the neighborhood can walk in to this eating house conveniently without facing any hassles related to commuting to this part of the city. It is one of the most sought after Restaurants in . The www.hotelskyview.in offers complete information of the restaurant. This is a one of the renowned Restaurants in Solapur.
+
+Skyview Family Restaurant at makes sure one has a great food experience by offering highly palatable food. The various services offered at the venue include Birthday Parties , Candle Light Dinner , Valet Parking , Ac , Take Away . The restaurant welcomes guests from 11:00 AM - 23:00 PM allowing diners to relish a scrumptious meal between the functional hours.The price range of the food at the restaurant ranges from 2. One can make their payment via Cash, Master Card, Visa Card, Debit Cards, Credit Card. This listing is also listed in Restaurants, Moderate Restaurants (Rs 500 To Rs 1000), Punjabi Restaurants. From a total number of 10+ ratings, the eating house has been rated a 4.4. One can reach the restaurant on +(91)-217-2311221 for any other details. "
+        android:layout_weight="0.95" />
+
+</LinearLayout>

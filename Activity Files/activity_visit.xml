@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorAccent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context="com.example.admin.visitsolapur.visit">
+
+    <TextView
+        android:id="@+id/city"
+        android:layout_width="367dp"
+        android:layout_height="76dp"
+        android:layout_margin="16dp"
+        android:text="Solapur City"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textColorHighlight="@android:color/holo_blue_dark"
+        android:textColorLink="@android:color/holo_blue_dark"
+        android:textCursorDrawable="@android:color/holo_blue_dark"
+        android:textSize="50sp"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <EditText
+        android:id="@+id/Email"
+        android:layout_width="283dp"
+        android:layout_height="47dp"
+        android:layout_margin="16dp"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textPersonName"
+        android:textColorLink="@android:color/holo_green_dark"
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="140dp" />
+
+    <EditText
+        android:id="@+id/Password"
+        android:layout_width="285dp"
+        android:layout_height="55dp"
+        android:layout_margin="18dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="228dp" />
+
+    <Button
+        android:id="@+id/Login"
+        android:layout_width="287dp"
+        android:layout_height="53dp"
+        android:layout_margin="26dp"
+        android:layout_weight="0.22"
+        android:onClick="LogIn"
+        android:text="LogIn"
+        android:textColorHint="@android:color/holo_green_dark"
+        android:textColorLink="@android:color/holo_orange_light"
+        android:textSize="40sp"
+        tools:layout_editor_absoluteX="116dp"
+        tools:layout_editor_absoluteY="326dp" />
+</LinearLayout>

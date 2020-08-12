@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.BigBazar"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bigbazar" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="Big Bazaar is a new shopping outlet cum shopping mall in the city of Rourkela. New Big Bazaar’s Rourkela store in Odisha is the latest entrant in the market making the Future Value Retail (Future Group retail chain)[1] hit the 100th[2][3][4] cities goal across India.
+
+Big Bazaar shopping mall was launched as the first retail chain and fourth new outlet of Future Group to have its presence in the Steel City of Rourkela, Odisha. The new shopping mall was opened in the month of December 20, 2014.
+
+Big Baazar Rourkela is among fourth new shopping outlet of Future Group, there are three Big Bazaar outlets in the state of Odisha two in Bhubaneswar,one in Cuttack and one in Keonjhar .
+Big Bazaar is an Indian retail store that operates as a chain of hypermarkets, discount department stores, and grocery stores. The retail chain was founded by Kishore Biyani under his parent organisation Future Group,[1] which is known for having a significant prominence in Indian retail and fashion sectors. Big Bazaar is also the parent chain of Food Bazaar, Fashion at Big Bazaar[2] (abbreviated as fbb) and eZone where at locations it houses all under one roof, while it is sister chain of retail outlets like Brand Factory, Home Town, Central, eZone, etc.
+
+Founded in 2001,[3] Big Bazaar is one of the oldest[4] and largest hypermarkets chain[5][6] of India, housing about 250+ stores in over 115 cities and towns across the country.[7]
+"
+        android:layout_weight="0.99" />
+
+</LinearLayout>

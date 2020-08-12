@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.visitsolapur.MeeraPark"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.07"
+        app:srcCompat="@drawable/meerapark1" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.87"
+        android:text="ADDRESS- Bank Colony, Dnyaneshwar Nagar, Rohini Nagar, Jule, Solapur, Maharashtra 413008, India
+INFORMATION- this park is also has more attraction towards the tourist or for those people who lives in solapur city. this park is very silent,beautifull,and lovely.in this park there are very much facilities for the kids enjoyment in this park the kids gets attracted because the facilities provided for them.in this park it also provides best services for the younger for study or the play things." />
+</LinearLayout>
